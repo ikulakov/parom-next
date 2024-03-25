@@ -2,7 +2,7 @@
 
 // test('create delete course list', async ({ page }) => {
 //   await page.locator('body').click()
-//   await page.goto('http://localhost:3000/')
+// //   await page.goto('/')
 //   await page.getByPlaceholder('название').click()
 //   await page.getByPlaceholder('название').fill('Test course')
 //   await page.getByPlaceholder('описание').click()
@@ -19,4 +19,4 @@
 //   ).not.toBeVisible()
 // })
 
-export { };
+export {}
